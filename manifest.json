@@ -1,0 +1,21 @@
+{
+    "name":"#Elote",
+    "short_name": "#El",
+    "description":"Elotito",
+    "background_color": "#2B2B2B",
+    "theme_color":"#F0DB4F",
+    "orientation": "portrait",
+    "display":"standalone",
+    "start_url":"./index.html?utm_source=we_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[{
+        "src": "./square.png",
+        "sizes":"300x225",
+        "type":"image/png"
+    },{
+        "src": "./star.png",
+        "sizes":"512x512",
+        "type":"image/png"
+    }]
+}
